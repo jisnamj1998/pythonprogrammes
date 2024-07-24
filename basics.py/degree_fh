@@ -1,0 +1,3 @@
+degree_celcius=110
+fh_value=(degree_celcius*9/5)+32
+print(fh_value)
